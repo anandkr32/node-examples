@@ -14,4 +14,6 @@
 
     npm start | bunyan
 
-### Hit http://localhost:8080/weather?place=bangalore
+### Test the server
+
+Hit [http://localhost:8080/weather?place=bangalore]
