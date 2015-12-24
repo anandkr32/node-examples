@@ -1,0 +1,17 @@
+{
+  "name": "weather-mashup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "bunyan": "^1.5.1",
+    "express": "4.x",
+    "request": "^2.67.0"
+  }
+}
