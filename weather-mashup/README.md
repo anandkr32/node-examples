@@ -16,4 +16,4 @@
 
 ### Test the server
 
-Hit [http://localhost:8080/weather?place=bangalore]
+Hit [http://localhost:8080/weather?place=bangalore](http://localhost:8080/weather?place=bangalore)
