@@ -1,6 +1,8 @@
 "use strict";
-var Weather;
+var Weather, log;
 Weather = require("../models/weather.model");
+
+log = require("bunyan").createLogger({"name": "weatherapp:index"});
 class WeatherController {
     getWeather(req, res) {
         new Weather().getWeather(req.query.place, function (err, results) {
