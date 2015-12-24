@@ -1,5 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea
 express-with-template/node_modules
 express-hello-world/node_modules
+/weather-mashup/node_modules
+/routing-with-weather-mashup/node_modules
 *.iml

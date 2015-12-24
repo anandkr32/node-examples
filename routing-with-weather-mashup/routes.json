@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/weather",
+    "controller": "Weather",
+    "verb": "get",
+    "action": "getWeather"
+  }
+]
