@@ -1,0 +1,21 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "supervisor node index.js | bunyan",
+    "test": "node_modules/.bin/mocha test --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "mockery": "^1.7.0"
+  }
+}

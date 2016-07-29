@@ -1,0 +1,75 @@
+{
+  "type": "success",
+  "value": [
+    {
+      "id": 552,
+      "joke": "Chuck Norris knows the value of NULL, and he can sort by it too.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 496,
+      "joke": "Chuck Norris went out of an infinite loop.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 520,
+      "joke": "With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 517,
+      "joke": "Chuck Norris solved the halting problem.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 558,
+      "joke": "Chuck Norris never has to build his program to machine code. Machines have learnt to interpret Chuck Norris code.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 527,
+      "joke": "No one has ever spoken during review of Chuck Norris' code and lived to tell about it.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 494,
+      "joke": "Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 453,
+      "joke": "Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 567,
+      "joke": "Code runs faster when Chuck Norris watches it.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 498,
+      "joke": "Chuck Norris hosting is 101% uptime guaranteed.",
+      "categories": [
+        "nerdy"
+      ]
+    }
+  ]
+}

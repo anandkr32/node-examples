@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/",
+    "controller": "BDDApp",
+    "verb": "get",
+    "action": "getDashboard"
+  }
+]
